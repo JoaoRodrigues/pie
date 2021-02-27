@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='pie',
+    name='prie',
     version='0.0.1',
     description='',
     long_description='',
